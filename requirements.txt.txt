@@ -1,0 +1,4 @@
+paddlepaddle>=2.4.0
+numpy
+pillow
+matplotlib
