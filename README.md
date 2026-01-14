@@ -19,3 +19,7 @@ PaddlePaddle implementation of "Enhancing Pavement Disease Classification throug
 1. Install dependencies: pip install -r requirements.txt
 2. Prepare your dataset
 3. Run training: python train.py
+
+## Pre-trained Model
+Due to GitHub file size limitations, the pre-trained model is available at: 
+[Download Link](https://pan.baidu.com/s/1WusD7qQUqvfrO-gO_GAfag?pwd=1234 ) (extraction code: 1234)
