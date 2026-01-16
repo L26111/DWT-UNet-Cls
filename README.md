@@ -23,3 +23,7 @@ PaddlePaddle implementation of "Enhancing Pavement Disease Classification throug
 ## Pre-trained Model
 Due to GitHub file size limitations, the pre-trained model is available at: 
 [Download Link](https://pan.baidu.com/s/1WusD7qQUqvfrO-gO_GAfag?pwd=1234 ) (extraction code: 1234)
+
+## Citation  
+If you use this code or the pretrained weights, please cite our paper:  
+> Qian Liu et al., "Enhancing Pavement Disease Classification through Wavelet Frequency Features and Attention Mechanisms," *The Visual Computer*, 2025 (under review).
